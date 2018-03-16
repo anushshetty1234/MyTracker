@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "877442534376",
+    "firebase_url": "https://mytracker-eb984.firebaseio.com",
+    "project_id": "mytracker-eb984",
+    "storage_bucket": "mytracker-eb984.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877442534376:android:ca0ed6a978709ab1",
+        "android_client_info": {
+          "package_name": "com.anush.mytracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877442534376-f2vmr7lmt8ui9n2q49qpn7vol5t2nnr4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anush.mytracker",
+            "certificate_hash": "3b49ab62d3f7c4a342baa7c0992f2ad7ef022f2e"
+          }
+        },
+        {
+          "client_id": "877442534376-04cgrm5cpk887e0112ls23v2heqnhent.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_hE--OGHKbPDliWjhKQTrFk7Fu0IzU50"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877442534376-04cgrm5cpk887e0112ls23v2heqnhent.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
